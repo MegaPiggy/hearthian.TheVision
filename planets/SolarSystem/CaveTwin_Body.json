@@ -150,6 +150,16 @@
         "rename": "SandPile_3"
       }
     ],
+    "entryLocation": [
+      {
+        "id": "SOLANUM_ET",
+        "position": {
+          "x": 34.9788,
+          "y": -103.6786,
+          "z": -25.7699
+        }
+      }
+    ],
     "reveal": [
       {
         "maxAngle": 180,
