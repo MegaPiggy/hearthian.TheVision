@@ -101,14 +101,7 @@ namespace TheVision.CustomProps
                 HUDreboot._hudFlickerOutLength = 10f;
                 HUDreboot._hudRebootLength = 2f;
                 HUDreboot._hudRebooting = true;
-                
-
             });
-
-
-
-
-
         }
 
         // Utility
